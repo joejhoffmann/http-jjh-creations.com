@@ -1,0 +1,57 @@
+@charset "UTF-8";
+#container {
+	background-color: #becbb2;
+	width: 960px;
+}
+.box {
+border:2px solid;
+color: #000;
+}
+
+.box:hover {
+	border: 2  #F9F3F3;
+	color: white;
+	background-clip: border-box;
+}
+@font-face {
+	@font-face {
+	font-family: 'Vollkorn Regular';
+	src: url('Vollkorn-Regular.ttf') format('truetype');
+}
+
+
+
+}
+a:link {
+	color: #00F;
+	text-decoration: none;
+}
+a:visited {
+	color: #00F;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+#wrapper div {
+	color: #555C4F;
+}
+img {
+    border: 0px none;
+    background: none repeat scroll 0% 0% transparent;
+    padding: 0px;
+}
+th p img {
+
+}
+}
+}
+#banner p img {
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-right: 40px;
+	padding: 0px;
+}
+th p .border {
+}
